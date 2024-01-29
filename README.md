@@ -1,2 +1,3 @@
-# proceedings-gr-1946
-Greek Parliamentary Proceedings 1946
+# PPAST-GR
+
+Greek Parliament Proceedings post WWII Analysis and Recognition
